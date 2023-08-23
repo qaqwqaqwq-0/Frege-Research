@@ -1,0 +1,6 @@
+/.vscode/
+/trash/
+.exe
+.obj
+.pdb
+numba_test.py
